@@ -51,5 +51,3 @@ Through this project, I learned:
 - Feature scaling with StandardScaler
 - L1 and L2 Regularization
 - Model evaluation using Accuracy Score and Confusion Matrix
-
-concepts and understand the implementation of Logistic Regression for employee turnover prediction using Python and Scikit-learn.
